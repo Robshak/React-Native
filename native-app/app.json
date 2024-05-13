@@ -8,6 +8,7 @@
       "ios",
       "android"
     ],
+    "githubUrl": "https://github.com/Robshak/React-Native.git",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -31,7 +32,8 @@
       },
       "permissions": [
         "android.permission.RECORD_AUDIO"
-      ]
+      ],
+      "package": "com.robshak.robshakpurpleschool"
     },
     "web": {
       "favicon": "./assets/favicon.png"
